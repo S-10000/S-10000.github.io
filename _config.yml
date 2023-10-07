@@ -1,5 +1,5 @@
 # Setup
-title: biang's daily talking
+title: Biang's daily talking
 description: catch the daily life 
 url: https://s-10000.github.io
 avatar: /avatar.jpg
@@ -29,15 +29,15 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 
-social:
-  name: biang
-  links:
-    - https://github.com/S-10000
-lang: zh-CN
+# social:
+#   name: biang
+#   links:
+#     - https://github.com/S-10000
+# lang: zh-CN
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
