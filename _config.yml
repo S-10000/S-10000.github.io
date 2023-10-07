@@ -30,11 +30,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 
-# social:
-#   name: biang
-#   links:
-#     - https://github.com/S-10000
-# lang: zh-CN
+social:
+  name: biang
+  links:
+    - https://github.com/S-10000
+lang: zh-CN
 
 sass:
   sass_dir: _sass
